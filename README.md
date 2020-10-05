@@ -16,7 +16,7 @@ Binary releases are available through [here](https://github.com/nakabonne/ali/re
 **Via Homebrew**
 
 ```bash
-brew install nakabonne/ali/ali
+brew install ali
 ```
 
 **Via APT**
